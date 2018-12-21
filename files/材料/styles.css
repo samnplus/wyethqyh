@@ -12,31 +12,6 @@
   position:absolute;
   z-index:0;
 }
-#u995_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:375px;
-  height:667px;
-}
-#u995 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:375px;
-  height:667px;
-}
-#u995_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
 #u996_img {
   border-width:0px;
   position:absolute;
@@ -48,17 +23,18 @@
 #u996 {
   border-width:0px;
   position:absolute;
-  left:506px;
-  top:90px;
+  left:0px;
+  top:0px;
   width:375px;
   height:667px;
 }
 #u996_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:326px;
-  width:371px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u997_img {
@@ -72,18 +48,17 @@
 #u997 {
   border-width:0px;
   position:absolute;
-  left:793px;
-  top:0px;
+  left:506px;
+  top:90px;
   width:375px;
   height:667px;
 }
 #u997_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:326px;
+  width:371px;
   word-wrap:break-word;
 }
 #u998_img {
@@ -97,7 +72,7 @@
 #u998 {
   border-width:0px;
   position:absolute;
-  left:1198px;
+  left:793px;
   top:0px;
   width:375px;
   height:667px;
@@ -116,10 +91,35 @@
   position:absolute;
   left:0px;
   top:0px;
+  width:375px;
+  height:667px;
+}
+#u999 {
+  border-width:0px;
+  position:absolute;
+  left:1198px;
+  top:0px;
+  width:375px;
+  height:667px;
+}
+#u999_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1000_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
   width:254px;
   height:684px;
 }
-#u999 {
+#u1000 {
   border-width:0px;
   position:absolute;
   left:337px;
@@ -127,7 +127,7 @@
   width:254px;
   height:684px;
 }
-#u999_text {
+#u1000_text {
   border-width:0px;
   position:absolute;
   left:0px;
